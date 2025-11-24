@@ -1,7 +1,7 @@
-# ZenTime
-Zentime is the new generation time management application designed to help individuals plan their daily routines efficiently by generating a personalized timetable on the basis of urgency, importance and due dates given by the user.
+# Zenith
+Zenith is the new generation time management application designed to help individuals plan their daily routines efficiently by generating a personalized timetable on the basis of urgency, importance and due dates given by the user.
 # Overview of the Project 
-ZenTime is a Smart Time Table generator application built using Python 
+Zenith is a Smart Time Table generator application built using Python 
 Programming. It helps the users to efficiently organize their daily 
 schedule according to their tasks deadlines, commitments and person 
 care. The program allows you to manage your time in an effortless 
@@ -10,7 +10,7 @@ eliminate overlapping of tasks, overcommitment and while managing
 your personal time as well, ensuring that your day has a free slot to 
 yourself which you can use for personal purpose or devoting this time 
 to family. 
-The application has 3 key views – Dashboard, Editor, and Analysis- 
+The application has 3 key tabs – Dashboard, Editor, and Analysis- 
 enabling users to visualize their routine. The graph helps user to 
 analyze their life routines and change it accordingly. Data is stored 
 locally in JSON format, allowing persistent storage of schedules across 
@@ -39,9 +39,9 @@ their schedule and change accordingly.
 # Steps to Install & Run the Project 
 * Install Python or above from https://python.org and ensure it’s 
 added to PATH.
-* Save the file 'ZenTime.py' in a project folder. 
+* Save the file 'Zenith.py' in a project folder. 
 * Open Command Prompt  
-* Run the command: python "ZenTime.py" 
+* Run the command: python "Zenith.py" 
 * The app window (Zenith - Smart Scheduler) will launch 
 automatically. 
  
